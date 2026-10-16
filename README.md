@@ -165,7 +165,7 @@ _To be filled in as objectives are completed._
 
 | Objective | Deliverable | Status |
 | --- | --- | --- |
-| 1 | Parquet files, ranked features, data cards | ☐ |
-| 2 | Benchmark tables, confusion matrices, model recommendation | ☐ |
-| 3 | Leave-one-attack-out table, system comparison | ☐ |
-| 4 | Edge demo video, latency/energy table, SHAP figures | ☐ |
+| 1 | Parquet files, ranked features, data cards | X |
+| 2 | Benchmark tables, confusion matrices, model recommendation | X |
+| 3 | Leave-one-attack-out table, system comparison | X |
+| 4 | Edge demo video, latency/energy table, SHAP figures | X |
